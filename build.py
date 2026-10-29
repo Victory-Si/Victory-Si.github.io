@@ -39,7 +39,9 @@ def build():
         if kind not in labels:
             raise ValueError('Invalid publication kind: ' + kind)
         e = {k: escape(str(v), quote=True) for k, v in paper.items()}
-        url = safe_url(paper.get('link') or 'https://scholar.google.com/scholar?q=' + quote(paper['title']))
+        if not paper.get('link') or 'scholar.google.com/scholar' in paper['link']:
+            raise ValueError('Verified paper page required: ' + paper['title'])
+        url = safe_url(paper['link'])
         status = '<span class="pub-status">' + e['status'] + '</span>' if paper.get('status') else ''
         articles.append(f'''<article class="publication-item" data-kind="{kind}" data-category="{e.get('category', 'localization')}">
 <span class="pub-year">{e['year']}</span><div class="pub-content"><div class="pub-type">{labels[kind]} <b>/</b> {e['venue']}{status}</div>
@@ -49,7 +51,7 @@ def build():
     publications = f'''<div class="container"><header class="inner-header"><h1>Publications</h1><p>Journal articles, conference papers and separately labeled preprints, based on the supplied CV, Scholar snapshot, and available publisher records. First-author publications are shown by default.</p></header>
 <div class="inner-content"><div class="pub-intro"><span>{len(papers)} entries · {counts['first']} first-author journal articles · {counts['coauthor']} co-author journal articles · {counts['conference']} conference papers · {counts['preprint']} preprint</span>
 <div class="pub-filters" role="group" aria-label="Filter publications" hidden>{filters}</div></div><div class="publication-list">{''.join(articles)}</div>
-<div class="pub-bottom"><p>Bibliography is based on the supplied CV, Scholar snapshot, and available publisher records. Preprints are not peer-reviewed journal publications. Links use verified DOI/publisher pages where available, otherwise title searches on Google Scholar.</p><a href="{values['cv']}" target="_blank" rel="noopener noreferrer">Download complete CV ↗</a></div></div></div>'''
+<div class="pub-bottom"><p>Bibliography is based on the supplied CV, Scholar snapshot, and available publisher records. Preprints are not peer-reviewed journal publications. Paper titles link directly to verified publisher or preprint pages; the Google Scholar profile remains available separately.</p><a href="{values['cv']}" target="_blank" rel="noopener noreferrer">Download complete CV ↗</a></div></div></div>'''
     news = []
     for index, item in enumerate(sorted(read_data('news'),key=lambda n:n['date_order'],reverse=True)):
         # News is trusted owner-authored HTML, just as in the original supplied source.

@@ -1,0 +1,359 @@
+[
+  {
+    "index": 0,
+    "title": "Joint DOA and Attitude Sensing Based on Tri-Polarized Continuous Aperture Array",
+    "url": "https://ieeexplore.ieee.org/document/11704840/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/twc.2026.3736771",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/twc.2026.3736771",
+    "authors_verified": [
+      "Haonan Si",
+      "Zhaolin Wang",
+      "Xiansheng Guo",
+      "Jin Zhang",
+      "Yuanwei Liu"
+    ]
+  },
+  {
+    "index": 1,
+    "title": "Spatial and Temporal Multi-Agent Interactive Localization: A Lightweight Personalized Federated Learning Approach",
+    "url": "https://ieeexplore.ieee.org/document/11715760/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/tcomm.2026.3738508",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/tcomm.2026.3738508",
+    "authors_verified": [
+      "Haonan Si",
+      "Yinong Liu",
+      "Xiansheng Guo",
+      "Gordon Owusu Boateng",
+      "Nirwan Ansari",
+      "Yalong Wang"
+    ]
+  },
+  {
+    "index": 2,
+    "title": "DOA Estimation via Continuous Aperture Arrays: MUSIC and CRLB",
+    "url": "https://ieeexplore.ieee.org/document/11592786/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/twc.2026.3706681",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/twc.2026.3706681",
+    "authors_verified": [
+      "Haonan Si",
+      "Zhaolin Wang",
+      "Xiansheng Guo",
+      "Jin Zhang",
+      "Yuanwei Liu"
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Cross-Scenario Foundation Localization Models: Architecture, Key Technologies, and Challenges",
+    "url": "https://ieeexplore.ieee.org/document/11226846/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/mwc.2025.3614570",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/mwc.2025.3614570",
+    "authors_verified": [
+      "Haonan Si",
+      "Xiansheng Guo",
+      "Gordon Owusu Boateng",
+      "Huang Xia"
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Unsupervised Localization Toward Crowdsourced Trajectory Data: A Deep Reinforcement Learning Approach",
+    "url": "https://ieeexplore.ieee.org/document/10981533/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/twc.2025.3563766",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/twc.2025.3563766",
+    "authors_verified": [
+      "Haonan Si",
+      "Xiangwang Hou",
+      "Jingjing Wang",
+      "Gordon Owusu Boateng",
+      "Zekai Zhang",
+      "Xiansheng Guo",
+      "Dusit Niyato"
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Spatial Feature Topology-Based Heterogeneous Knowledge Transfer Framework for Long-Term Fingerprint Positioning",
+    "url": "https://ieeexplore.ieee.org/document/10945500/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/tvt.2025.3555656",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/tvt.2025.3555656",
+    "authors_verified": [
+      "Haonan Si",
+      "Xiansheng Guo",
+      "Gordon Owusu Boateng",
+      "Yin Yang",
+      "Nirwan Ansari"
+    ]
+  },
+  {
+    "index": 6,
+    "title": "Environment-Aware Positioning by Leveraging Unlabeled Crowdsourcing Data",
+    "url": "https://ieeexplore.ieee.org/document/10401957/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/jiot.2024.3355164",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/jiot.2024.3355164",
+    "authors_verified": [
+      "Haonan Si",
+      "Xiansheng Guo",
+      "Nirwan Ansari",
+      "Cheng Chen",
+      "Linfu Duan",
+      "Jian Huang"
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Multi-Agent Interactive Localization: A Positive Transfer Learning Perspective",
+    "url": "https://ieeexplore.ieee.org/document/10308963/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/tccn.2023.3330062",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/tccn.2023.3330062",
+    "authors_verified": [
+      "Haonan Si",
+      "Xiansheng Guo",
+      "Nirwan Ansari"
+    ]
+  },
+  {
+    "index": 8,
+    "title": "Fuzzy Rule-Based Neural Appointed-Time Control for Uncertain Nonlinear Systems with Aperiodic Samplings",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417420311489",
+    "evidence_url": "https://api.crossref.org/works/10.1016/j.eswa.2020.114504",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. Elsevier primary PII agrees with indexed ScienceDirect publisher article page; author names in Crossref are inverted given/family fields.",
+    "doi": "10.1016/j.eswa.2020.114504",
+    "authors_verified": [
+      "Si Haonan",
+      "Shao Xingling",
+      "Zhang Wendong"
+    ]
+  },
+  {
+    "index": 9,
+    "title": "MLP-Based Neural Guaranteed Performance Control for MEMS Gyroscope with Logarithmic Quantizer",
+    "url": "https://ieeexplore.ieee.org/document/9000916/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/access.2020.2974526",
+    "verification_note": "Verified exact title (case-insensitive), complete author list and publisher landing URL in publisher-deposited Crossref metadata. IEEE Xplore direct browser access blocked; publisher metadata resource.primary.URL verifies article ID.",
+    "doi": "10.1109/access.2020.2974526",
+    "authors_verified": [
+      "Haonan Si",
+      "Xingling Shao",
+      "Wendong Zhang"
+    ]
+  },
+  {
+    "index": 10,
+    "title": "A Self-Organizing Federated Reinforcement Learning Framework for Cross-Scenario Collaborative AVP Trajectory Planning",
+    "url": "https://ieeexplore.ieee.org/document/11720456/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/tase.2026.3740234",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 11,
+    "title": "Critical Semantic Innovation Interaction Mechanism Towards Vehicle–Infrastructure Collaboration in Autonomous Valet Parking",
+    "url": "https://ieeexplore.ieee.org/document/11716568/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/mwc.2026.3729547",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 12,
+    "title": "ParkingTwin: Training-free streaming 3D reconstruction for parking-lot digital twins",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0924271626003564",
+    "evidence_url": "https://www.sciencedirect.com/science/article/pii/S0924271626003564",
+    "verification_note": "Publisher indexed full landing page matches exact title and all eight authors in CRediT statement; DOI10.1016/j.isprsjprs.2026.07.009."
+  },
+  {
+    "index": 13,
+    "title": "O-VIP: A High-Level Semantic Map Construction Method via OSM-Visual-Inertial Fusion for Multivehicle Cooperative AVP",
+    "url": "https://ieeexplore.ieee.org/document/11598796/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/jiot.2026.3710793",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 14,
+    "title": "Clutter-Aware Waveform Design for Multi-Cell Integrated Sensing and Communication Systems",
+    "url": "https://ieeexplore.ieee.org/document/11657468/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/twc.2026.3722214",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 15,
+    "title": "Prioritized Multi-Agent Path Finding for AVPC Leveraging Distributional Dueling DQN",
+    "url": "https://ieeexplore.ieee.org/document/11586058/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/ojits.2026.3708138",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 16,
+    "title": "A Self-Supervised Masked Autoencoder Leveraging Temporal-Frequency Representation for CSI Localization",
+    "url": "https://ieeexplore.ieee.org/document/11410048/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/tnse.2026.3667788",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 17,
+    "title": "A Platform-Centric Framework for Intelligent Parking Traffic Prediction and Resource Optimization in Shared AVPC Systems",
+    "url": "https://ieeexplore.ieee.org/document/11182176/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/tase.2025.3614684",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 18,
+    "title": "ToF-Based Indoor Localization for Harsh Environments: A Continuous Environment Sensing Framework",
+    "url": "https://ieeexplore.ieee.org/document/11175297/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/jsen.2025.3610128",
+    "verification_note": "Verified exact title (dash typography normalized), complete matching author names, and publisher-deposited resource.primary.URL in Crossref metadata. IEEE direct page access blocked; canonical URL confirmed from IEEE-deposited metadata rather than guessed."
+  },
+  {
+    "index": 19,
+    "title": "Multi-Vehicle Collaborative Trajectory Planning for AVP in Parking Lots: A Bio-Inspired Evolutionary Reinforcement Learning Approach",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11164663",
+    "evidence_url": "https://ieeexplore.ieee.org/abstract/document/11164663",
+    "verification_note": "Exact-title IEEE indexed publisher page reports DOI10.1109/TITS.2025.3607312. Matching full authors and resource.primary.URL also observed in Crossref title-search result saved in crossref_10.json; direct IEEE browsing restricted."
+  },
+  {
+    "index": 20,
+    "title": "Indoor Positioning Systems as Critical Infrastructure: An Assessment for Enhanced Location-Based Services",
+    "url": "https://www.mdpi.com/1424-8220/25/16/4914",
+    "evidence_url": "https://www.mdpi.com/1424-8220/25/16/4914",
+    "verification_note": "Publisher page and publisher PDF match exact title and Hailu, Guo, Si authors."
+  },
+  {
+    "index": 21,
+    "title": "OSM2Net: A Robust Road Network Extraction Framework from Noisy Indoor Parking OpenStreetMap",
+    "url": "https://ieeexplore.ieee.org/document/11003116/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/JIOT.2025.3569715",
+    "verification_note": "Publisher-deposited Crossref metadata matches exact title (case-insensitive) and all authors; resource.primary.URL confirms this precise IEEE document URL. DOI HTTP redirect independently confirmed for indices21,22,23,27. IEEE direct HTML may be robot-blocked; not a guessed ID."
+  },
+  {
+    "index": 22,
+    "title": "Hard Sample Meta-Learning for CIR NLoS Identification in UWB Positioning",
+    "url": "https://ieeexplore.ieee.org/document/10824825/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/JIOT.2025.3525722",
+    "verification_note": "Publisher-deposited Crossref metadata matches exact title (case-insensitive) and all authors; resource.primary.URL confirms this precise IEEE document URL. DOI HTTP redirect independently confirmed for indices21,22,23,27. IEEE direct HTML may be robot-blocked; not a guessed ID."
+  },
+  {
+    "index": 23,
+    "title": "Automated Valet Parking and Charging: A Novel Collaborative AI-Empowered Architecture",
+    "url": "https://ieeexplore.ieee.org/document/10689485/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/MCOM.001.2300824",
+    "verification_note": "Publisher-deposited Crossref metadata matches exact title (case-insensitive) and all authors; resource.primary.URL confirms this precise IEEE document URL. DOI HTTP redirect independently confirmed for indices21,22,23,27. IEEE direct HTML may be robot-blocked; not a guessed ID."
+  },
+  {
+    "index": 24,
+    "title": "Automated Valet Parking and Charging: A Dynamic Pricing and Reservation-Based Framework Leveraging Multi-Agent Reinforcement Learning",
+    "url": "https://ieeexplore.ieee.org/document/10582308/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/TIV.2024.3421524",
+    "verification_note": "Publisher-deposited Crossref metadata matches exact title (case-insensitive) and all authors; resource.primary.URL confirms this precise IEEE document URL. DOI HTTP redirect independently confirmed for indices21,22,23,27. IEEE direct HTML may be robot-blocked; not a guessed ID."
+  },
+  {
+    "index": 25,
+    "title": "Theories and Methods for Indoor Positioning Systems: A Comparative Analysis, Challenges, and Prospective Measures",
+    "url": "https://www.mdpi.com/1424-8220/24/21/6876",
+    "evidence_url": "https://www.mdpi.com/1424-8220/24/21/6876",
+    "verification_note": "Publisher page matches exact title and all five authors."
+  },
+  {
+    "index": 26,
+    "title": "Ada-LT IP: Functional Discriminant Analysis of Feature Extraction for Adaptive Long-Term Wi-Fi Indoor Localization in Evolving Environments",
+    "url": "https://www.mdpi.com/1424-8220/24/17/5665",
+    "evidence_url": "https://www.mdpi.com/1424-8220/24/17/5665",
+    "verification_note": "Publisher URL previously verified by parent; current direct fetch rate-limited (429). Source DOI 10.3390/s24175665."
+  },
+  {
+    "index": 27,
+    "title": "TRAIL: A Three-Step Robust Adversarial Indoor Localization Framework",
+    "url": "https://ieeexplore.ieee.org/document/10443830/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/JSEN.2024.3352669",
+    "verification_note": "Publisher-deposited Crossref metadata matches exact title (case-insensitive) and all authors; resource.primary.URL confirms this precise IEEE document URL. DOI HTTP redirect independently confirmed for indices21,22,23,27. IEEE direct HTML may be robot-blocked; not a guessed ID."
+  },
+  {
+    "index": 28,
+    "title": "Co-Occurrence Fingerprint Data-Based Heterogeneous Transfer Learning Framework for Indoor Positioning",
+    "url": "https://www.mdpi.com/1424-8220/22/23/9127",
+    "evidence_url": "https://www.mdpi.com/1424-8220/22/23/9127",
+    "verification_note": "Publisher page and publisher PDF match exact title and Huang, Si, Guo, Zhong authors."
+  },
+  {
+    "index": 29,
+    "title": "Low-Frequency Learning Quantized Control for MEMS Gyroscopes Accounting for Full-State Constraints",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0952197622000367",
+    "evidence_url": "https://api.crossref.org/works/10.1016/j.engappai.2022.104724",
+    "verification_note": "Publisher-indexed ScienceDirect landing page matches title and authors; Crossref publisher-deposited metadata matches title and Shao, Si, Zhang and confirms PII S0952197622000367. Direct page fetch blocked 403."
+  },
+  {
+    "index": 30,
+    "title": "Event-Triggered Neural Intelligent Control for Uncertain Nonlinear Systems with Specified-Time Guaranteed Behaviors",
+    "url": "https://link.springer.com/article/10.1007/s00521-020-05357-w",
+    "evidence_url": "https://link.springer.com/article/10.1007/s00521-020-05357-w",
+    "verification_note": "Publisher page exact title and full author order Xingling Shao, Haonan Si, Wendong Zhang verified."
+  },
+  {
+    "index": 31,
+    "title": "Fuzzy Wavelet Neural Control with Improved Prescribed Performance for MEMS Gyroscope Subject to Input Quantization",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0165011420302967",
+    "evidence_url": "https://api.crossref.org/works/10.1016/j.fss.2020.08.005",
+    "verification_note": "Elsevier indexed publisher page exact title; publisher-deposited Crossref confirms exact title, Xingling Shao / Haonan Si / Wendong Zhang, and primary resource PII S0165011420302967."
+  },
+  {
+    "index": 32,
+    "title": "Neurodynamic Formation Maneuvering Control with Modified Prescribed Performances for Networked Uncertain Quadrotors",
+    "url": "https://ieeexplore.ieee.org/document/9235507/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/JSYST.2020.3022901",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Xingling Shao, Zhibin Cao, Haonan Si. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 33,
+    "title": "Precoding and Bi-Static Sensing for Cooperative ISAC",
+    "url": "https://ieeexplore.ieee.org/document/11712041/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/PIMRC69400.2026.11712041",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Yves Fidèle Aikoun, Haonan Si, Gordon Owusu Boateng, Xinhao Liu, Xiansheng Guo, Nirwan Ansari. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 34,
+    "title": "DOA Estimation for Tri-Polarized Continuous Aperture Array",
+    "url": "https://ieeexplore.ieee.org/document/11587019/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/ICC59461.2026.11587019",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Haonan Si, Zhaolin Wang, Xiansheng Guo, Jin Zhang, Yuanwei Liu. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 35,
+    "title": "Cognitive ISAC Waveform Design Via Symbol-Level Precoding",
+    "url": "https://ieeexplore.ieee.org/document/11352647/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/ICCWAMTIP68645.2025.11352647",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Yves Fidele Aikoun, Gordon Owusu Boateng, Yang Liqiang, Haonan Si, Xiansheng Guo. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 36,
+    "title": "A Multi-Vehicle Cooperative Localization Method for AVP Leveraging Double Deep Q-Network",
+    "url": "https://ieeexplore.ieee.org/document/11270574/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/WF-IOT64238.2025.11270574",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Xinhao Liu, Xiansheng Guo, Gordon Owusu Boateng, Haonan Si, Bocheng Qian, Yu Cao, Huang Xia, Yinong Liu, Yu Wang. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 37,
+    "title": "Weakly-Supervised Crowdsourcing Localization Based on Self-Learning Spatial-Temporal Attention Network",
+    "url": "https://ieeexplore.ieee.org/document/11148152/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/ICCCWorkshops67136.2025.11148152",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Huang Xia, Gordon Owusu Boateng, Haonan Si, Xiansheng Guo, Bocheng Qian, Xinhao Liu, Yu Cao, Yinong Liu. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 38,
+    "title": "A Contract-Based Incentive Mechanism for Optimal Pricing and Allocation in Shared AVPC",
+    "url": "https://ieeexplore.ieee.org/document/11152846/",
+    "evidence_url": "https://api.crossref.org/works/10.1109/INFOCOMWKSHPS65812.2025.11152846",
+    "verification_note": "IEEE publisher-deposited Crossref exact title and complete author order verified: Kehan Chen, Gordon Owusu Boateng, Haonan Si, Xiansheng Guo, Nirwan Ansari. resource.primary.URL explicitly provides this IEEE article URL. IEEE direct fetch is bot-blocked; identifier is not guessed."
+  },
+  {
+    "index": 39,
+    "title": "DynaFIPS: Multidimensional Metrics Framework with Confidence-Weighted Fusion for Dynamic Fingerprint-Based Indoor Localization",
+    "url": "https://www.preprints.org/manuscript/202508.0422",
+    "evidence_url": "https://www.preprints.org/manuscript/202508.0422",
+    "verification_note": "Direct preprint repository page exact title and author order Hailu Gidey Tesfay, Xiansheng Guo, Haonan Si verified. Not peer-reviewed; no status change."
+  }
+]

@@ -7,7 +7,7 @@
     "kind": "first",
     "category": "sensing",
     "status": "Accepted",
-    "link": "https://scholar.google.com/scholar?q=Joint%20DOA%20and%20Attitude%20Sensing%20Based%20on%20Tri-Polarized%20Continuous%20Aperture%20Array"
+    "link": "https://ieeexplore.ieee.org/document/11704840/"
   },
   {
     "title": "Spatial and Temporal Multi-Agent Interactive Localization: A Lightweight Personalized Federated Learning Approach",
@@ -17,7 +17,7 @@
     "kind": "first",
     "category": "learning",
     "status": "Accepted",
-    "link": "https://scholar.google.com/scholar?q=Spatial%20and%20Temporal%20Multi-Agent%20Interactive%20Localization%3A%20A%20Lightweight%20Personalized%20Federated%20Learning%20Approach"
+    "link": "https://ieeexplore.ieee.org/document/11715760/"
   },
   {
     "title": "DOA Estimation via Continuous Aperture Arrays: MUSIC and CRLB",
@@ -27,7 +27,7 @@
     "kind": "first",
     "category": "sensing",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=DOA%20Estimation%20via%20Continuous%20Aperture%20Arrays%3A%20MUSIC%20and%20CRLB"
+    "link": "https://ieeexplore.ieee.org/document/11592786/"
   },
   {
     "title": "Cross-Scenario Foundation Localization Models: Architecture, Key Technologies, and Challenges",
@@ -37,7 +37,7 @@
     "kind": "first",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Cross-Scenario%20Foundation%20Localization%20Models%3A%20Architecture%2C%20Key%20Technologies%2C%20and%20Challenges"
+    "link": "https://ieeexplore.ieee.org/document/11226846/"
   },
   {
     "title": "Unsupervised Localization Toward Crowdsourced Trajectory Data: A Deep Reinforcement Learning Approach",
@@ -47,7 +47,7 @@
     "kind": "first",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Unsupervised%20Localization%20Toward%20Crowdsourced%20Trajectory%20Data%3A%20A%20Deep%20Reinforcement%20Learning%20Approach"
+    "link": "https://ieeexplore.ieee.org/document/10981533/"
   },
   {
     "title": "Spatial Feature Topology-Based Heterogeneous Knowledge Transfer Framework for Long-Term Fingerprint Positioning",
@@ -57,7 +57,7 @@
     "kind": "first",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Spatial%20Feature%20Topology-Based%20Heterogeneous%20Knowledge%20Transfer%20Framework%20for%20Long-Term%20Fingerprint%20Positioning"
+    "link": "https://ieeexplore.ieee.org/document/10945500/"
   },
   {
     "title": "Environment-Aware Positioning by Leveraging Unlabeled Crowdsourcing Data",
@@ -67,7 +67,7 @@
     "kind": "first",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Environment-Aware%20Positioning%20by%20Leveraging%20Unlabeled%20Crowdsourcing%20Data"
+    "link": "https://ieeexplore.ieee.org/document/10401957/"
   },
   {
     "title": "Multi-Agent Interactive Localization: A Positive Transfer Learning Perspective",
@@ -77,7 +77,7 @@
     "kind": "first",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Multi-Agent%20Interactive%20Localization%3A%20A%20Positive%20Transfer%20Learning%20Perspective"
+    "link": "https://ieeexplore.ieee.org/document/10308963/"
   },
   {
     "title": "Fuzzy Rule-Based Neural Appointed-Time Control for Uncertain Nonlinear Systems with Aperiodic Samplings",
@@ -87,7 +87,7 @@
     "kind": "first",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Fuzzy%20Rule-Based%20Neural%20Appointed-Time%20Control%20for%20Uncertain%20Nonlinear%20Systems%20with%20Aperiodic%20Samplings"
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417420311489"
   },
   {
     "title": "MLP-Based Neural Guaranteed Performance Control for MEMS Gyroscope with Logarithmic Quantizer",
@@ -97,7 +97,7 @@
     "kind": "first",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=MLP-Based%20Neural%20Guaranteed%20Performance%20Control%20for%20MEMS%20Gyroscope%20with%20Logarithmic%20Quantizer"
+    "link": "https://ieeexplore.ieee.org/document/9000916/"
   },
   {
     "title": "A Self-Organizing Federated Reinforcement Learning Framework for Cross-Scenario Collaborative AVP Trajectory Planning",
@@ -107,7 +107,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=A%20Self-Organizing%20Federated%20Reinforcement%20Learning%20Framework%20for%20Cross-Scenario%20Collaborative%20AVP%20Trajectory%20Planning"
+    "link": "https://ieeexplore.ieee.org/document/11720456/"
   },
   {
     "title": "Critical Semantic Innovation Interaction Mechanism Towards Vehicle–Infrastructure Collaboration in Autonomous Valet Parking",
@@ -117,7 +117,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "Early Access",
-    "link": "https://doi.org/10.1109/MWC.2026.3729547"
+    "link": "https://ieeexplore.ieee.org/document/11716568/"
   },
   {
     "title": "ParkingTwin: Training-free streaming 3D reconstruction for parking-lot digital twins",
@@ -127,7 +127,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=ParkingTwin%3A%20Training-free%20streaming%203D%20reconstruction%20for%20parking-lot%20digital%20twins"
+    "link": "https://www.sciencedirect.com/science/article/pii/S0924271626003564"
   },
   {
     "title": "O-VIP: A High-Level Semantic Map Construction Method via OSM-Visual-Inertial Fusion for Multivehicle Cooperative AVP",
@@ -137,7 +137,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=O-VIP%3A%20A%20High-Level%20Semantic%20Map%20Construction%20Method%20via%20OSM-Visual-Inertial%20Fusion%20for%20Multivehicle%20Cooperative%20AVP"
+    "link": "https://ieeexplore.ieee.org/document/11598796/"
   },
   {
     "title": "Clutter-Aware Waveform Design for Multi-Cell Integrated Sensing and Communication Systems",
@@ -147,7 +147,7 @@
     "kind": "coauthor",
     "category": "sensing",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Clutter-Aware%20Waveform%20Design%20for%20Multi-Cell%20Integrated%20Sensing%20and%20Communication%20Systems"
+    "link": "https://ieeexplore.ieee.org/document/11657468/"
   },
   {
     "title": "Prioritized Multi-Agent Path Finding for AVPC Leveraging Distributional Dueling DQN",
@@ -157,7 +157,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Prioritized%20Multi-Agent%20Path%20Finding%20for%20AVPC%20Leveraging%20Distributional%20Dueling%20DQN"
+    "link": "https://ieeexplore.ieee.org/document/11586058/"
   },
   {
     "title": "A Self-Supervised Masked Autoencoder Leveraging Temporal-Frequency Representation for CSI Localization",
@@ -167,7 +167,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=A%20Self-Supervised%20Masked%20Autoencoder%20Leveraging%20Temporal-Frequency%20Representation%20for%20CSI%20Localization"
+    "link": "https://ieeexplore.ieee.org/document/11410048/"
   },
   {
     "title": "A Platform-Centric Framework for Intelligent Parking Traffic Prediction and Resource Optimization in Shared AVPC Systems",
@@ -177,7 +177,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=A%20Platform-Centric%20Framework%20for%20Intelligent%20Parking%20Traffic%20Prediction%20and%20Resource%20Optimization%20in%20Shared%20AVPC%20Systems"
+    "link": "https://ieeexplore.ieee.org/document/11182176/"
   },
   {
     "title": "ToF-Based Indoor Localization for Harsh Environments: A Continuous Environment Sensing Framework",
@@ -187,7 +187,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=ToF-Based%20Indoor%20Localization%20for%20Harsh%20Environments%3A%20A%20Continuous%20Environment%20Sensing%20Framework"
+    "link": "https://ieeexplore.ieee.org/document/11175297/"
   },
   {
     "title": "Multi-Vehicle Collaborative Trajectory Planning for AVP in Parking Lots: A Bio-Inspired Evolutionary Reinforcement Learning Approach",
@@ -197,7 +197,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Multi-Vehicle%20Collaborative%20Trajectory%20Planning%20for%20AVP%20in%20Parking%20Lots%3A%20A%20Bio-Inspired%20Evolutionary%20Reinforcement%20Learning%20Approach"
+    "link": "https://ieeexplore.ieee.org/abstract/document/11164663"
   },
   {
     "title": "Indoor Positioning Systems as Critical Infrastructure: An Assessment for Enhanced Location-Based Services",
@@ -207,7 +207,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Indoor%20Positioning%20Systems%20as%20Critical%20Infrastructure%3A%20An%20Assessment%20for%20Enhanced%20Location-Based%20Services"
+    "link": "https://www.mdpi.com/1424-8220/25/16/4914"
   },
   {
     "title": "OSM2Net: A Robust Road Network Extraction Framework from Noisy Indoor Parking OpenStreetMap",
@@ -217,7 +217,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=OSM2Net%3A%20A%20Robust%20Road%20Network%20Extraction%20Framework%20from%20Noisy%20Indoor%20Parking%20OpenStreetMap"
+    "link": "https://ieeexplore.ieee.org/document/11003116/"
   },
   {
     "title": "Hard Sample Meta-Learning for CIR NLoS Identification in UWB Positioning",
@@ -227,7 +227,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Hard%20Sample%20Meta-Learning%20for%20CIR%20NLoS%20Identification%20in%20UWB%20Positioning"
+    "link": "https://ieeexplore.ieee.org/document/10824825/"
   },
   {
     "title": "Automated Valet Parking and Charging: A Novel Collaborative AI-Empowered Architecture",
@@ -237,7 +237,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Automated%20Valet%20Parking%20and%20Charging%3A%20A%20Novel%20Collaborative%20AI-Empowered%20Architecture"
+    "link": "https://ieeexplore.ieee.org/document/10689485/"
   },
   {
     "title": "Automated Valet Parking and Charging: A Dynamic Pricing and Reservation-Based Framework Leveraging Multi-Agent Reinforcement Learning",
@@ -247,7 +247,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Automated%20Valet%20Parking%20and%20Charging%3A%20A%20Dynamic%20Pricing%20and%20Reservation-Based%20Framework%20Leveraging%20Multi-Agent%20Reinforcement%20Learning"
+    "link": "https://ieeexplore.ieee.org/document/10582308/"
   },
   {
     "title": "Theories and Methods for Indoor Positioning Systems: A Comparative Analysis, Challenges, and Prospective Measures",
@@ -257,7 +257,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Theories%20and%20Methods%20for%20Indoor%20Positioning%20Systems%3A%20A%20Comparative%20Analysis%2C%20Challenges%2C%20and%20Prospective%20Measures"
+    "link": "https://www.mdpi.com/1424-8220/24/21/6876"
   },
   {
     "title": "Ada-LT IP: Functional Discriminant Analysis of Feature Extraction for Adaptive Long-Term Wi-Fi Indoor Localization in Evolving Environments",
@@ -267,7 +267,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://doi.org/10.3390/s24175665"
+    "link": "https://www.mdpi.com/1424-8220/24/17/5665"
   },
   {
     "title": "TRAIL: A Three-Step Robust Adversarial Indoor Localization Framework",
@@ -277,7 +277,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=TRAIL%3A%20A%20Three-Step%20Robust%20Adversarial%20Indoor%20Localization%20Framework"
+    "link": "https://ieeexplore.ieee.org/document/10443830/"
   },
   {
     "title": "Co-Occurrence Fingerprint Data-Based Heterogeneous Transfer Learning Framework for Indoor Positioning",
@@ -287,7 +287,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Co-Occurrence%20Fingerprint%20Data-Based%20Heterogeneous%20Transfer%20Learning%20Framework%20for%20Indoor%20Positioning"
+    "link": "https://www.mdpi.com/1424-8220/22/23/9127"
   },
   {
     "title": "Low-Frequency Learning Quantized Control for MEMS Gyroscopes Accounting for Full-State Constraints",
@@ -297,7 +297,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Low-Frequency%20Learning%20Quantized%20Control%20for%20MEMS%20Gyroscopes%20Accounting%20for%20Full-State%20Constraints"
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0952197622000367"
   },
   {
     "title": "Event-Triggered Neural Intelligent Control for Uncertain Nonlinear Systems with Specified-Time Guaranteed Behaviors",
@@ -307,7 +307,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Event-Triggered%20Neural%20Intelligent%20Control%20for%20Uncertain%20Nonlinear%20Systems%20with%20Specified-Time%20Guaranteed%20Behaviors"
+    "link": "https://link.springer.com/article/10.1007/s00521-020-05357-w"
   },
   {
     "title": "Fuzzy Wavelet Neural Control with Improved Prescribed Performance for MEMS Gyroscope Subject to Input Quantization",
@@ -317,7 +317,7 @@
     "kind": "coauthor",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Fuzzy%20Wavelet%20Neural%20Control%20with%20Improved%20Prescribed%20Performance%20for%20MEMS%20Gyroscope%20Subject%20to%20Input%20Quantization"
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165011420302967"
   },
   {
     "title": "Neurodynamic Formation Maneuvering Control with Modified Prescribed Performances for Networked Uncertain Quadrotors",
@@ -327,7 +327,7 @@
     "kind": "coauthor",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Neurodynamic%20Formation%20Maneuvering%20Control%20with%20Modified%20Prescribed%20Performances%20for%20Networked%20Uncertain%20Quadrotors"
+    "link": "https://ieeexplore.ieee.org/document/9235507/"
   },
   {
     "title": "Precoding and Bi-Static Sensing for Cooperative ISAC",
@@ -337,7 +337,7 @@
     "kind": "conference",
     "category": "sensing",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Precoding%20and%20Bi-Static%20Sensing%20for%20Cooperative%20ISAC"
+    "link": "https://ieeexplore.ieee.org/document/11712041/"
   },
   {
     "title": "DOA Estimation for Tri-Polarized Continuous Aperture Array",
@@ -347,7 +347,7 @@
     "kind": "conference",
     "category": "sensing",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=DOA%20Estimation%20for%20Tri-Polarized%20Continuous%20Aperture%20Array"
+    "link": "https://ieeexplore.ieee.org/document/11587019/"
   },
   {
     "title": "Cognitive ISAC Waveform Design Via Symbol-Level Precoding",
@@ -357,7 +357,7 @@
     "kind": "conference",
     "category": "sensing",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Cognitive%20ISAC%20Waveform%20Design%20Via%20Symbol-Level%20Precoding"
+    "link": "https://ieeexplore.ieee.org/document/11352647/"
   },
   {
     "title": "A Multi-Vehicle Cooperative Localization Method for AVP Leveraging Double Deep Q-Network",
@@ -367,7 +367,7 @@
     "kind": "conference",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=A%20Multi-Vehicle%20Cooperative%20Localization%20Method%20for%20AVP%20Leveraging%20Double%20Deep%20Q-Network"
+    "link": "https://ieeexplore.ieee.org/document/11270574/"
   },
   {
     "title": "Weakly-Supervised Crowdsourcing Localization Based on Self-Learning Spatial-Temporal Attention Network",
@@ -377,7 +377,7 @@
     "kind": "conference",
     "category": "learning",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=Weakly-Supervised%20Crowdsourcing%20Localization%20Based%20on%20Self-Learning%20Spatial-Temporal%20Attention%20Network"
+    "link": "https://ieeexplore.ieee.org/document/11148152/"
   },
   {
     "title": "A Contract-Based Incentive Mechanism for Optimal Pricing and Allocation in Shared AVPC",
@@ -387,7 +387,7 @@
     "kind": "conference",
     "category": "localization",
     "status": "",
-    "link": "https://scholar.google.com/scholar?q=A%20Contract-Based%20Incentive%20Mechanism%20for%20Optimal%20Pricing%20and%20Allocation%20in%20Shared%20AVPC"
+    "link": "https://ieeexplore.ieee.org/document/11152846/"
   },
   {
     "title": "DynaFIPS: Multidimensional Metrics Framework with Confidence-Weighted Fusion for Dynamic Fingerprint-Based Indoor Localization",
@@ -397,6 +397,6 @@
     "kind": "preprint",
     "category": "localization",
     "status": "Preprint · Not peer-reviewed",
-    "link": "https://doi.org/10.20944/preprints202508.0422.v1"
+    "link": "https://www.preprints.org/manuscript/202508.0422"
   }
 ]
